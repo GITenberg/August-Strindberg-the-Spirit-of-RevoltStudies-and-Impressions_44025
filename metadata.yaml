@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '33811'
     url: http://www.gutenberg.org/2009/agents/33811
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44025#August-Strindberg-the-Spirit-of-RevoltStudies-and-Impressions
 gutenberg_issued: '2013-10-24'
 gutenberg_type: Text
 identifiers:
